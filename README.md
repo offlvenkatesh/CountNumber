@@ -13,6 +13,7 @@ Built with modern best practices.
 
 ```
 CountNumber/
+README.md
 index.html
 index.js
 preview.png
