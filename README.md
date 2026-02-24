@@ -1,7 +1,7 @@
 # CountNumber
 
-A web application.
-Built with modern best practices.
+A HTML implementation focusing on code quality and maintainability.
+Great starting point for your next project.
 
 ## 🚀 Tech Stack
 
