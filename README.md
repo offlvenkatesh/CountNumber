@@ -1,7 +1,6 @@
 # CountNumber
 
-A HTML implementation focusing on code quality and maintainability.
-Great starting point for your next project.
+A JavaScript counter Number that supports increment, decrement, and reset functionality with real-time UI updates.
 
 ## 🚀 Tech Stack
 
